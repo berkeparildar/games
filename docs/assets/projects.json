@@ -1,0 +1,277 @@
+[
+  {
+    "projectName": "Picker3D",
+    "repositoryURL": "https://github.com/berkeparildar/Picker3D",
+    "projectDescription": "Picker3D is a mobile game where players take control of a U shaped object. The objective is to collect all small obstacles in a platform and successfully carry them to the end of the level.",
+    "projectFeatures": [
+      "Used tweens for animating most of the environment and UI.",
+      "Used object-pooling for objects being dragged to improve performance.",
+      "Used CineMachine to control the camera movement during the ramp section.",
+      "Published on Google Play Store after testing."
+    ],
+    "projectUsage": [
+      "The picker automatically moves forward.",
+      "Swipe left or right: Control the horizontal movement of the picker object.",
+      "Collect everything along the platform.",
+      "Reach the end to push objects into the basket.",
+      "Gates open when the count is achieved, allowing progression to the next stage.",
+      "In ramp sections, tap repeatedly to gain speed."
+    ],
+    "videoURL": "https://youtu.be/vESaYdveps0",
+    "storeURL": "https://play.google.com/store/apps/details?id=com.bprldr.Picker3D",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "Road Cross",
+    "repositoryURL": "https://github.com/berkeparildar/Road-Cross",
+    "projectDescription": "Road Cross is a mobile game where players take control of a adventurous chicken attempting to cross busy roads and rivers. The objective is to navigate through the traffic and obstacles, avoiding collisions and reaching the other side to earn points.",
+    "projectFeatures": [
+      "Simple and endless gameplay.",
+      "Used Inheritance and Polymorphism for scalability.",
+      "Added sound effects that change with distance and plane.",
+      "Used voxel-style graphics for a charming and visually appealing experience."
+    ],
+    "projectUsage": [
+      "Swipe in the desired direction to move the chicken: up, down, left, or right.",
+      "Cross roads and rivers without getting hit by vehicles or falling into the water.",
+      "Earn points for each successful crossing.",
+      "The game ends if the chicken collides with a vehicle or falls into the water."
+    ],
+    "videoURL": "https://youtu.be/D_ytC4uhcgg",
+    "storeURL":  "https://play.google.com/store/apps/details?id=com.bprldr.RoadCross",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "Fall Parkour",
+    "repositoryURL": "https://github.com/berkeparildar/Fall-Parkour",
+    "projectDescription": "Fall Parkour is a multiplayer desktop game inspired by the popular game Fall Guys. Two players compete in a series of challenging race maps, with the goal of reaching the finish line before their opponent.",
+    "projectFeatures": [
+      "Used Photon Unity Network for multiplayer implementation.",
+      "Implemented match-making system for finding online lobbies.",
+      "Used CineMachine to create cinematic intros before levels.",
+      "Successfully synced animations and positions in online lobbies for seamless experience."
+    ],
+    "projectUsage": [
+      "~Door Dash~",
+      "Navigate through rows of doors.",
+      "Hit the doors to pass through and reach the finish line.",
+      "In each row, there are two fake doors that cannot be opened.",
+      "Find the real doors to progress.",
+      "Each row has fewer doors, making it harder to find the correct path.",
+      "The first player to reach the finish line wins the game.",
+      "~Big Fans~",
+      "Pass through a series of spinning fans.",
+      "Jump from fan to fan to progress.",
+      "Time your jumps perfectly to avoid falling.",
+      "In the later stages, watch out for fans with rotating sticks that can push you off.",
+      "This level also features a checkpoint system.",
+      "If you fall, you'll respawn at the last checkpoint.",
+      "The first player to reach the finish line wins the game.",
+      "~Slime Climb~",
+      "Ascend a platform filled with obstacles to reach the top.",
+      "Avoid the rising slime below; contact with it means defeat.",
+      "Navigate through rotating hammers, slippery floors, pendulum balls, and moving cube obstacles.",
+      "Be agile and precise to dodge obstacles and stay ahead of the slime.",
+      "The first player to reach the finish line wins the game."
+    ],
+    "videoURL": "https://youtu.be/jMtXLuWaQ-k",
+    "storeURL":  "",
+    "tags": [
+      "Unity",
+      "C#",
+      "Photon",
+      "Multiplayer"
+    ]
+  },
+  {
+    "projectName": "Freeway Drive",
+    "repositoryURL": "https://github.com/berkeparildar/Freeway-Drive",
+    "projectDescription": "Freeway Drive is an endless driving game where players take control of a moving car on a busy freeway. The car gradually gains speed as the game progresses, challenging players' reflexes and decision-making.",
+    "projectFeatures": [
+      "Implemented endless driving gameplay.",
+      "Added gradually increasing car speed, making the gameplay more exciting and challenging as it goes on.",
+      "Realistic freeway environment with randomly generated cars and smooth controls, realistic based on Turkish Traffic!",
+      "Added a handling power-up to enhance player's ability to change lanes quickly for a short period of time.",
+      "Added a ghost power-up, which can be used to temporarily phase through other cars and avoid collisions.",
+      "Added in-game money, which can be picked up on the freeway and spent on customizing the car's color.",
+      "Implemented rewarded ad system which allows a second chance if you crash during the game."
+    ],
+    "projectUsage": [
+      "Swipe left or right to change lanes and avoid collisions with other cars.",
+      "Watch out for randomly generated cars changing lanes, indicated by their blinkers.",
+      "Collect handling power-ups to reduce lane-changing time, aiding in avoiding collisions.",
+      "Pick up ghost power-ups to temporarily become transparent and move through other cars to avoid collisions.",
+      "Customize your car's color using one of the six available color options, each costing 100$.",
+      "If you crash, you can watch a rewarded ad video to continue the game from where you left off.",
+      "Reach the highest score possible by surviving as long as you can, combining top speed and survival time."
+    ],
+    "videoURL": "https://youtu.be/tqJnv6PXmFk",
+    "storeURL":  "https://play.google.com/store/apps/details?id=com.bprldr.freewaydrive",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "Putt Time",
+    "repositoryURL": "https://github.com/berkeparildar/Putt-Time",
+    "projectDescription": "Putt Time is a multiplayer desktop golf game designed for up to four players. Players can create or join rooms and engage in golf matches across three maps: Classicton, Jumpington, and Spinnington.",
+    "projectFeatures": [
+      "Play golf across six holes in each map: Classicton, Jumpington, and Spinnington.",
+      "Classicton: Enjoy a classic golf experience.",
+      "Spinnington: Navigate spinning obstacles on all six courses to reach the hole.",
+      "Jumpington: Utilize jumping pads to make your ball soar into the air and reach the hole strategically.",
+      "Engaging multiplayer golf experience with up to four players.",
+      "Online multiplayer functionality using Photon Unity Network.",
+      "Ball control with intuitive clicking and dragging mechanics.",
+      "Dynamic direction identifiers for precise shot planning.",
+      "Camera system for adjusting the view with mouse movements and zooming.",
+      "Checkpoint system for players, relocating them if the ball goes out of bounds."
+    ],
+    "projectUsage": [
+      "Choose a name that will act as your user name in rooms.",
+      "Join or create a room with up to four players.",
+      "Room owners get a random room ID, shareable for friends to join the lobby.",
+      "The lobby displays the names of all players, allowing easy tracking of participants.",
+      "Control the ball by clicking and dragging, adjusting the hit's direction and power.",
+      "Direction indicators show the current ball trajectory during dragging.",
+      "The more powerful the hit, indicators will change color and rotate faster and wider.",
+      "Players can adjust camera view horizontally and vertically by mouse movement, or zoom in and out using their mouse wheel.",
+      "Keep track of your and other players' par, strokes, and hole progression on the scorecard.",
+      "Once all players complete a course, move on to the next one.",
+      "After finishing all six courses in a map, the winner is announced by name and color."
+    ],
+    "videoURL": "https://youtu.be/SRp2cSUUpRo",
+    "storeURL":  "",
+    "tags": [
+      "Unity",
+      "C#",
+      "Photon",
+      "Multiplayer"
+    ]
+  },
+  {
+    "projectName": "Space Gun Run",
+    "repositoryURL": "https://github.com/berkeparildar/Gun-Run",
+    "projectDescription": "Space Gun Run is a runner-style game where players control a moving gun on a dynamic platform. The objective is to shoot at different obstacles and collect ammo to advance through the levels.",
+    "projectFeatures": [
+      "Players control a gun that moves horizontally on a moving platform.",
+      "Two types of obstacles exist on the platform: Ammo and Walls.",
+      "Ammo: Shoot at ammo to collect bullets, and when the chamber is full, move to the ammo wall to unload the collected ammo.",
+      "Ammo Wall: A wall that displays collected ammo and rewards players with EXP points when fully loaded.",
+      "Walls: Objects on the platform that reward players with random perks: FireRate, FireRange, and GunEXP.",
+      "Perk Points: Accumulate perk points by shooting at walls. These points increase the effect of the perk received.",
+      "End of Platform: Reach the end of the platform to encounter rows of barrels with money on top. Shoot and collect as much money as possible.",
+      "Gun Crash: If the gun collides with a high health barrel row, proceed to the next level."
+    ],
+    "projectUsage": [
+      "Control the moving gun by swerving horizontally on the platform to avoid obstacles and collect ammo.",
+      "Shoot at Ammo to increase the bullets in the chamber. Once the chamber is full, proceed to the Ammo Wall to get your EXP points.",
+      "Shoot at Walls to accumulate perk points. The more you shoot, the stronger the perks you receive.",
+      "Reach the end of the platform to collect money from barrels. Shoot and collect as much money as possible.",
+      "Use the collected money at the end of each level to purchase permanent perks, upgrade guns, and improve gameplay abilities.",
+      "Watch rewarded ads to earn extra in-game currency for faster progress.",
+      "The game has an endless gameplay loop with increasing platform length and random obstacle generation."
+    ],
+    "videoURL": "https://youtu.be/EbHNhdFMDQ8",
+    "storeURL":  "https://play.google.com/store/apps/details?id=com.bprldr.spacegunrun",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "I Want Sun",
+    "repositoryURL": "https://github.com/berkeparildar/I-Want-Sun",
+    "projectDescription": "I Want Sun is an 2D merge mobile game heavily inspired by the popular game I Want Watermelon. In this game, player merges different variety of planets in our Solar System, and aims to create a Sun.",
+    "projectFeatures": [
+      "Addictive and strategic gameplay, challenging players to create larger planets.",
+      "Keep an eye on your score and the number of suns acquired.",
+      "Control FX and music volume to tailor the gaming experience."
+    ],
+    "projectUsage": [
+      "Tap to drop planets from the top of the screen.",
+      "Planets of the same type merge upon contact, forming a bigger planet.",
+      "Merge planets strategically to maximize the score.",
+      "Avoid stacking planets too high and hitting the limit.",
+      "Achieve the ultimate goal: create a sun by merging planets efficiently."
+    ],
+    "videoURL": "https://youtu.be/2yEiP8obIEc",
+    "storeURL":  "https://play.google.com/store/apps/details?id=com.bprldr.IWantSun",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "Gem Match!",
+    "repositoryURL": "https://github.com/berkeparildar/Gem-Match",
+    "projectDescription": "Gem Match! is a puzzle game where players aim to match at least three gems of the same type vertically or horizontally. The game features a grid of colorful gems with six different varieties.",
+    "projectFeatures": [
+      "User-Friendly Interface: Users can easily tap on the currency icons to select their current currency and the target currency for conversion.",
+      "Wide Currency Support: The app provides access to 16 different currencies, offering a broad range of options for users.",
+      "Real-time Target Currency Update: The target currency dynamically updates in real-time with each input, allowing users to see instant conversions.",
+      "Exchange Rates API Integration: Exchange rates for all available currencies are set with the base currency being USD.",
+      "The entered amount is converted to the target currency by considering the latest exchange rates, ensuring accuracy in calculations."
+    ],
+    "projectUsage": [
+      "Touch and drag a gem to swap it with an adjacent gem in the desired direction.",
+      "Match at least three gems of the same type vertically or horizontally to destroy them.",
+      "After gems are destroyed, the gems above them in the grid will fall into their place.",
+      "Earn 100 points for each gem destroyed in a match.",
+      "New random gems will fill in the empty spots.",
+      "You have a 10-second time limit from the start of the game.",
+      "Each gem in a match awards you with additional seconds.",
+      "If you run out of time, the game ends."
+    ],
+    "videoURL": "https://youtu.be/jnGv_1mKeRc",
+    "storeURL":  "https://play.google.com/store/apps/details?id=com.bprldr.gemmatch",
+    "tags": [
+      "Unity",
+      "C#",
+      "Mobile Game"
+    ]
+  },
+  {
+    "projectName": "Druid's Tale",
+    "repositoryURL": "https://github.com/berkeparildar/Druids-Tale",
+    "projectDescription": "Druid's Tale is an RPG game where you embark on an exciting adventure as a powerful druid with the ability to shape-shift into different animals. Each animal form offers unique abilities, strengths, and weaknesses.",
+    "projectFeatures": [
+      "Shape shift into a tiger and a bear, each with distinct abilities.",
+      "Tiger: Agile and fast, perfect for traversing tricky platforms and executing swift attacks",
+      "Bear: Strong and sturdy, capable of taking heavy damage and withstanding powerful blows.",
+      "Beautifully crafted floating forest environment.",
+      "Challenging enemies and boss battles that require you to master your animal forms and exploit their unique strengths.",
+      "Exciting platforming challenges, including intricate jumps and precise timing."
+    ],
+    "projectUsage": [
+      "Movement: W, A, S, D.",
+      "Jump: Space-bar.",
+      "Shape-shift: Q and E.",
+      "Special Abilies: 1 and 2.",
+      "Human Special Ability One: Wrath. Damaging AoE spell that deals 30 damage, costs 70 mana and has cooldown of 7 seconds.",
+      "Human Special Ability Two: Regeneration. Healing over time spell that heals 50 damage, costs 50 mana and has cooldown of 9 seconds.",
+      "Tiger Special Ability One: Shred. Damaging over time spell that deals 15 damage, costs 20 energy and has cooldown of 2 seconds.",
+      "Tiger Special Ability Two: Ferocious Bite. Damaging spell that deals 30 damage, costs 30 energy and has cooldown of 4 seconds.",
+      "Bear Special Ability One: Swipe. Damaging spell that deals 15 damage, costs 20 rage and has cooldown of 2 seconds.",
+      "Bear Special Ability Two: Growl. Crowd Control spell that fears enemies for 5 seconds, costs 100 rage and has cooldown of 10 seconds."
+    ],
+    "videoURL": "https://youtu.be/spLtwbp_a-k",
+    "storeURL":  "",
+    "tags": [
+      "Unity",
+      "C#"
+    ]
+  }
+]
